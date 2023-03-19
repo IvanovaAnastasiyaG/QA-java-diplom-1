@@ -1,0 +1,9 @@
+# игнорировать .idea
+.idea/
+
+# игнорировать target
+target/
+
+# игнорировать плагин .allure
+.allure/
+
